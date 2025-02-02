@@ -1,4 +1,4 @@
-package com.lq.exercises;
+package //your package here;
 
 public class Box {
 	private double length;
