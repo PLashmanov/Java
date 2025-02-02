@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.lq.exercises;
+package //import your package here;
 
 /**
  * 
