@@ -1,11 +1,7 @@
-/**
- * 
- */
-package com.lq.exercises;
 
-/**
- * 
- */
+package //your package here;
+
+
 public class BoxDriver {
 
 	/**
